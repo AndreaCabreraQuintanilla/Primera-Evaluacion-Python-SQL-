@@ -9,7 +9,7 @@ Este proyecto contiene el código en Python necesario para hacer los ejercicios 
 Practicar los métodos estudiados para python y SQL, vistos durante toda la primera parte del módulo 1 del bootcamp Data Analytics de Adalab.
 
 ## Estructura de las carpetas
-En este repositorio se encuentran 2 carpetas, llamadas "python" y "sql", además de este README. La carpeta "python" contiene todos los archivos jupyter donde se han realizado ejercicios utilizando el lenguaje de Python. Por otro lado, la carpeta "sql" está compuesta por los archivos en los que se ha realizado los ejercicios utilizando SQL.
+En este repositorio se encuentran una carpeta, llamada "promoE_mod1_sprint1_AndreaCabrera" que contiene dos archivos correspondientes a los ejercicios utilizando el lenguaje de Python y a los ejercicios utilizando SQL.
 
 ## Lenguajes utilizados
 - Python 3.10
