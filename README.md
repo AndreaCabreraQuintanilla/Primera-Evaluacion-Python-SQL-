@@ -1,5 +1,19 @@
-# DA-promoE-Mod1-Evaluacion-AndreaCabrera
+# Primera Evaluación Python y SQL 
+## Integrante:
+Andrea Cabrera
 
-Esta carpeta hace referencia al contenido de las evaluaciones que realiza la alumna Andrea Cabrera en el módulo 1 de la promoción Evelyn del curso Data Analyst en Adalab.
+## Descripción
+Este proyecto contiene el código en Python necesario para hacer los ejercicios propuestos.
 
-Dicha carpeta contiene diversas carpetas clasificadas en función del sprint al que la alumna se está evaluando. Además, estás carpetas podrían tener una carpeta dentro añadida para guardar ficheros u otra documentación extra si la evaluación lo requiere.
+## Motivación para la realización de este proyecto
+Practicar los métodos estudiados para python y SQL, vistos durante toda la primera parte del módulo 1 del bootcamp Data Analytics de Adalab.
+
+## Estructura de las carpetas
+En este repositorio se encuentran 2 carpetas, llamadas "python" y "sql", además de este README. La carpeta "python" contiene todos los archivos jupyter donde se han realizado ejercicios utilizando el lenguaje de Python. Por otro lado, la carpeta "sql" está compuesta por los archivos en los que se ha realizado los ejercicios utilizando SQL.
+
+## Lenguajes utilizados
+- Python 3.10
+- SQL
+
+## Librerias utilizadas
+* [MySQL Connector](https://dev.mysql.com/doc/connector-python/en/)
